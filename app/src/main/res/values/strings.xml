@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">WeatherBootcamp</string>
+	<string name="hint_townEditText">Choose town</string>
+	<string name="get_weather_button">Get weather</string>
+	<string name="pressure_text_label">Pressure:\u0020</string>
+	<string name="min_temp_text_label">Min. temp:\u0020</string>
+	<string name="max_temp_text_label">Max. temp:\u0020</string>
+	<string name="celsius_indicator">C</string>
+	<string name="invalid_town_name">Invalid town name!</string>
+
+
+</resources>
